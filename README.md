@@ -1,2 +1,4 @@
 # hello_world
-What we do
+What we do.
+
+We commit to Github. And merge.
